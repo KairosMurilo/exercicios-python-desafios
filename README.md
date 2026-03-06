@@ -54,7 +54,7 @@ Aqui você encontrará:
 </div>
 
 ```
-Progresso Total  [████████░░░░░░░░░░░░]  40 / 100 exercícios concluídos
+Progresso Total  [█████████████░░░░░░░░]  620 / 100 exercícios concluídos
 ```
 
 ---
